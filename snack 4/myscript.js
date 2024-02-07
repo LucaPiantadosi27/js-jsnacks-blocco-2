@@ -32,4 +32,4 @@ while (userChoice != "exit") {
     userChoice = prompt("Scegli un altro numero, oppure clicca 'exit'")
 }
 
-console.log("uscita")
+console.log("uscita") 
